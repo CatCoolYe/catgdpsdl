@@ -1,0 +1,25 @@
+{
+    "id": 8,
+    "name": "Monochromatic",
+    "author": "JustNicole",
+    "creators": ["JustNicole"],
+    "verifier": "JustNicole",
+    "verification": "https://www.youtube.com/watch?v=jYYPdv07pi4",
+    "showcase": "https://www.youtube.com/watch?v=jYYPdv07pi4",
+    "password": "",
+    "percentToQualify": 51,
+    "records": [
+        {
+            "user": "Benektelse",
+            "link": "https://youtu.be/E9l_KQlMjFw?si=rUIWFvQevPoWYbK0&t=109",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+            "user": "PlayboiCarti",
+            "link": "https://www.youtube.com/watch?v=vU-P6zqcmKY",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

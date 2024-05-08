@@ -1,0 +1,25 @@
+{
+    "id": 26,
+    "name": "Wyseria",
+    "author": "JustNicole",
+    "creators": [],
+    "verifier": "JustNicole",
+    "verification": "https://www.youtube.com/watch?v=SLa9M74gz1c",
+    "showcase": "https://www.youtube.com/watch?v=SLa9M74gz1c",
+    "password": "Not Copyable",
+    "percentToQualify": 51,
+    "records": [
+        {
+            "user": "PlayboiCarti",
+            "link": "https://www.youtube.com/watch?v=SJNYTFooQKo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Benektelse",
+            "link": "https://www.youtube.com/watch?v=E9l_KQlMjFw&t=19s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

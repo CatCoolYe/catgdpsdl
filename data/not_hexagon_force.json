@@ -1,0 +1,19 @@
+{
+    "id": 59,
+    "name": "Not Hexagon Force",
+    "author": "rseven",
+    "creators": [],
+    "verifier": "rseven",
+    "verification": "https://youtu.be/1jHBixByfCo?si=5ZX-sBFqvfAbcPWP",
+    "showcase": "https://youtu.be/1jHBixByfCo?si=5ZX-sBFqvfAbcPWP",
+    "password": "Not Copyable",
+    "percentToQualify": 51,
+    "records": [
+      {
+          "user": "Bobohoho",
+          "link": "https://youtu.be/2GcIAITD-Hs?si=5eNgS9YY8zpaiiKQ",
+          "percent": 100,
+          "hz": 60
+      }
+    ]
+}

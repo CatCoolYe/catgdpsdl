@@ -1,0 +1,31 @@
+{
+    "id": 16,
+    "name": "Polar Highway",
+    "author": "RustedD",
+    "creators": [],
+    "verifier": "RustedD",
+    "verification": "https://youtu.be/tHsqEhPsLfU",
+    "showcase": "https://youtu.be/tHsqEhPsLfU",
+    "password": "Not Copyable",
+    "percentToQualify": 51,
+    "records": [
+        {
+            "user": "PlayboiCarti",
+            "link": "https://youtu.be/ZLEaHZE926g",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Benektelse",
+            "link": "https://youtu.be/E9l_KQlMjFw?si=RwQCD_IyQg8Lincs&t=181",
+            "percent": 100,
+            "hz": 360
+        },
+      {
+          "user": "Bobohoho",
+          "link": "https://youtu.be/67NQJiDgzoo?si=Bc4K-y09rRUKKk98",
+          "percent": 52,
+          "hz": 60
+      }
+    ]
+}
